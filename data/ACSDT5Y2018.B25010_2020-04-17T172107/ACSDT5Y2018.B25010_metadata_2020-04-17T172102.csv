@@ -1,0 +1,8 @@
+"GEO_ID","id",
+"NAME","Geographic Area Name",
+"B25010_001E","Estimate!!Total",
+"B25010_001M","Margin of Error!!Total",
+"B25010_002E","Estimate!!Total!!Owner occupied",
+"B25010_002M","Margin of Error!!Total!!Owner occupied",
+"B25010_003E","Estimate!!Total!!Renter occupied",
+"B25010_003M","Margin of Error!!Total!!Renter occupied",

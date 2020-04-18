@@ -129,10 +129,9 @@ dmypy.json
 .pyre/
 
 # add by meettyj
-data/
 .DS_Store
 temp/
-result/
+
 
 
 
