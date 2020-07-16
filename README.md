@@ -8,7 +8,7 @@ This Project focuses on analyzing association between predictors and COVID-19 ou
 - ACS 2018 NYC Community districts:https://www1.nyc.gov/site/planning/planning-level/nyc-population/american-community-survey.page
 - ACS Profile Report 2018: https://census.missouri.edu/acs/profiles/report.php?p=36&g=04000US36
 - Zip code to ZCTA: http://faculty.baruch.cuny.edu/geoportal/resources/nyc_geog/zip_to_zcta10_nyc_revised.xls
-
+- Search ACS table: https://data.census.gov/cedsci/?#
 
 
 
